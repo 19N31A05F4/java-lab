@@ -1,0 +1,38 @@
+elements in the list by using add() are:[5, 10, 15, A, B, C]
+elements in the list by using add(index) are:[5, 10, 15, A, B, C, 20, D]
+elements in the list1 are:[3, 6, P, Q]
+elements in the list2 are:[9, R]
+elements after using addAll() are:[3, 6, P, Q, 9, R]
+elemnts in the list by using addAll(index) are:[3, 9, R, 6, P, Q, 9, R]
+elemnts in the list are:[1, 2, E, F]
+size of the list before using clear() is:4
+elements in the list after using clear():[]
+size of the list after using clear() is:0
+list of copied elements from aList4 are:[X, Y, Z]
+aList contains element 2
+aList doesn't contains element 9
+Array List Number=[7, 11, 13]
+Array List Number=[4, 8, 12]
+Element Retrieved at index 1 i.e;2nd position=8
+Array List String=[Learning, ISSIMPLE]
+Index of Learning is:0
+AT is not present so it will print index as -1
+Index of AT=-1
+list is:[D, I, L, E, E, P]
+index of Last E in list:4
+Array list is:[LEARNING, JAVA, ISSIMPLE]
+After Removing Element at index 2 ArrayList is:[LEARNING, JAVA]
+The ArrayList:[4, 8, 12, 16, 20, 24]
+The ArrayList after setting 13 value at index 2:[4, 8, 13, 16, 20, 24]
+Size of Arraylist is :6
+ArrayList= [2, 4, 6, 8]
+Value at index 0 of Array coverted from ArrayList= 2
+Value at index 1 of Array coverted from ArrayList= 4
+Value at index 2 of Array coverted from ArrayList= 6
+Value at index 3 of Array coverted from ArrayList= 8
+Printing an ArrayList after using trimToSize method [1, 2, 3, 4]
+ArrayList is not Empty
+Using clear() method to empty ArrayList
+ArrayList is Empty
+Elements in Arraylist= [A, B, C, D, E, C]
+ArrayList After Removing  Element C= [A, B, D, E, C]
